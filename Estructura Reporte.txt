@@ -1,6 +1,0 @@
-1 introduccion problematica
-2 etat de l'art (ver papers)
-3 por cada sol proponer la solucion (pseudo-codigo)
-4 Ver resultados simulacion (comparar)
-5 Pseudo codigo de agrupacion de todo como se podria aplicar
-6 Conclusion.
